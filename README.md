@@ -1,4 +1,4 @@
-## Hola 👋 soy Dafne LAarrondo QA Engineer.
+## Hola 👋 soy Dafne Larrondo QA Engineer.
 
 ![imagen para github](https://github.com/user-attachments/assets/9686aef7-cd5b-4ba3-9a14-fa402fe81ca2)
 
