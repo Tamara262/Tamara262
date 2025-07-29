@@ -1,7 +1,7 @@
 ## Hola 👋 soy Dafne LAarrondo QA Engineer.
 
 
-<!--![imagen para github](https://github.com/user-attachments/assets/b8ba2e15-1487-4710-ab60-aa31b5a8f415)
+[imagen para github](https://github.com/user-attachments/assets/b8ba2e15-1487-4710-ab60-aa31b5a8f415)
 
 **Tamara262/Tamara262** es un repositorio especial ✨✨✨✨✨✨✨ por que su README.md aparece en mi 
 perfil de GitHub.
