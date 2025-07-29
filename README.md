@@ -21,7 +21,7 @@ Jira
 profesional para aplicar todo lo aprendido y seguir creciendo en el área de
 aseguramiento de calidad.
 
-- 🤝Me interesa colaborar en proyectos donde pueda aportar valor con pruebas
+- 🤝Me interesa colaborar en proyectos donde pueda aportar valor con pruebas.
 funcionales, pruebas manuales, automatización básica o control de calidad.
 - 💭Pregúntame sobre: diseño de casos de prueba,pruebas manuales,validación de datos,
 herramientas de testing...
